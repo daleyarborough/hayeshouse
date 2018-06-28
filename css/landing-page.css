@@ -52,7 +52,7 @@ header.masthead h1 {
   padding: 3rem;
 }
 
-.showcase .showcase-img {
+.showcase  {
   min-height: 30rem;
   background-size: cover;
 }
